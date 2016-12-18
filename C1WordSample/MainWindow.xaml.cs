@@ -13,8 +13,6 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using C1.WPF.Word;
-using Microsoft.Win32;
-using C1.WPF.Word.Objects;
 using System.IO;
 
 namespace C1WordSample
